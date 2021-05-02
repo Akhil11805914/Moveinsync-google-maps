@@ -17,7 +17,7 @@ To install App, follow these steps:
 
 * Open the app and, at first you will be asked to give location permission, give the permission.
 * After granting the permission, you will be shown your current location.
-* You can serach for any location or plcae you wanted in search box.
+* You can serach for any location or place you wanted in search box.
 
 >>Contact
 * If you want to contact me you can reach me at 1229551gpdh@gmail.com.
